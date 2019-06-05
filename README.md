@@ -32,7 +32,7 @@ DIV2K or FLICKR2K dataset is both OK, but note that FLICKR2K is about 3 times th
 
 ### validation data
 
-Also generate a json file for every test set. Image cropping is not needed. 
+Also generate a json file for every test set. Image cropping is not needed. While calculating PSNR and SSIM, although there is a little difference between python and matlab, we use python for convenience.
 
 ### train
 
